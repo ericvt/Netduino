@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 using Microsoft.SPOT;
 using Microsoft.SPOT.Hardware;
@@ -116,7 +116,7 @@ namespace Sendor_Test
                     double inches = _capteur.TicksToInches(ticks);
                    Microsoft.SPOT.Debug.Print(inches.ToString());
 
-                   if (inches < 200L )
+                   if (inches < 100L )
                    {
                        if (inches < 50L) /// - ENZO change ici ///
                        {
