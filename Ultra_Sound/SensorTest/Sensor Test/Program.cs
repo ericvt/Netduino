@@ -118,7 +118,7 @@ namespace Sendor_Test
 
                    if (inches < 200L )
                    {
-                       if (inches < 100L) /// - ENZO change ici ///
+                       if (inches < 50L) /// - ENZO change ici ///
                        {
                            interval = 30 * inches;
                            _capteur.LEDOut.Write(true); _capteur.LEDRed.Write(true); 
