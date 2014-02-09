@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensor Test", "Sensor Test\Sensor Test.csproj", "{9E60165F-D169-4724-9B61-6D69B6A56C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E60165F-D169-4724-9B61-6D69B6A56C4E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
